@@ -2,7 +2,7 @@
 <p align="center">
   <img src="logo.jpg" width="300">
 </p>
-> Ultra C is still in development, is not for general use, and has problems and bugs.
+Ultra C is still in development, is not for general use, and has problems and bugs.
 
 # What is Ultra C?
 Ultra C is a simple, uncomplicated interpreter written more for learning purposes than for industrial or large-scale use. 
