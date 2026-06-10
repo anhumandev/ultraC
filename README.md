@@ -1,5 +1,7 @@
 # UltraC
-![Logo of ultrac](logo.jpg)
+<p align="center">
+  <img src="logo.jpg" width="300">
+</p>
 > Ultra C is still in development, is not for general use, and has problems and bugs.
 
 # What is Ultra C?
