@@ -1,2 +1,2 @@
 # ultraC
-A simple interperter for C.
+> Ultra C is still in development, is not for general use, and has problems and bugs.
