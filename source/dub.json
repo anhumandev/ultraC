@@ -1,0 +1,9 @@
+{
+	"description": "A interperter for C",
+	"license": "proprietary",
+	"authors": [
+		"AHuman (github.com/anhumandev)"
+	],
+	"copyright": "Copyright © 2026, AHuman (github.com/anhumandev)",
+	"name": "ultrac"
+}
